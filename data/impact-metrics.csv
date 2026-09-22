@@ -1,0 +1,6 @@
+Metric,Value,Unit,Source,Evidence IDs,Important Context
+Affected persons reported,"16,924,071",people,Maine AG breach record,E-06,Exact total in the cited state breach record.
+2024 recognized incident expense,24.6,USD millions,2024 Form 10-K,E-09,Reported net of $35.0M insurance recoveries.
+2025 recognized incident expense,1.8,USD millions,2025 Form 10-K,E-10,Reported for fiscal 2025; do not treat as directly comparable gross cost to 2024 without the filing context.
+Breach access window,2024-01-03 to 2024-01-05,date range,California breach notice,E-05,Publicly reported window; not a root-cause statement.
+Discovery / identification date,2024-01-04,date,California breach notice,E-05,Notice states the potential incident was identified on or about this date.

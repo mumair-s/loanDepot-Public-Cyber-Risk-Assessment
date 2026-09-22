@@ -1,0 +1,10 @@
+Date,Event,Primary Source Type,Evidence IDs
+2024-01-03,Unauthorized access window begins,California breach notice,E-05
+2024-01-04,Incident identified / discovered,California breach notice; SEC report date,E-05
+2024-01-05,Unauthorized access window ends,California breach notice,E-05
+2024-01-08,"Initial SEC disclosure; unauthorized access, data encryption, system shutdowns disclosed",SEC Form 8-K,E-01; E-02
+2024-01-22,"Restoration progress reported for loan-origination, servicing, and customer portals; ~16.6M individuals reported",SEC-filed incident update,E-03
+2024-02-23,Consumer breach notice describes sensitive data categories and identity-protection services,California AG notice,E-04
+2024-02-27,Incident reported contained; up to ~16.9M notifications; expected material Q1 impact and litigation disclosed,SEC Form 8-K/A,E-07; E-08
+2025-03-12,2024 annual filing reports $24.6M incident expenses net of $35.0M insurance recoveries,2024 Form 10-K,E-09
+2026-03-12,2025 annual filing reports $1.8M additional 2025 expenses and continuing regulatory engagement,2025 Form 10-K,E-10

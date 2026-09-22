@@ -1,0 +1,9 @@
+loanDepot Public-Source Cyber Risk Assessment
+Validation Summary
+=================================================
+Sources: 8
+Evidence items: 15
+Risks: 8
+Public control observations: 10
+
+PASS — IDs, evidence references, risk calculations, and ratings are consistent.
